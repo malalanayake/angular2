@@ -1,0 +1,1 @@
+{"version":3,"file":"fancyText.component.js","sourceRoot":"","sources":["fancyText.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAQ1C;IAAA;IACA,CAAC;IAPD;QAAC,gBAAS,CAAC;YACT,QAAQ,EAAE,MAAM,CAAC,EAAE;YACnB,QAAQ,EAAE,YAAY;YACtB,SAAS,EAAE,CAAC,yBAAyB,CAAC;YACtC,QAAQ,EAAE,sBAAsB;SACjC,CAAC;;iBAAA;IAEF,gBAAC;AAAD,CAAC,AADD,IACC;AADY,iBAAS,YACrB,CAAA"}
